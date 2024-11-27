@@ -47,3 +47,4 @@ contract Lottery {
     }
 }
 // contribution 0
+// contribution 1
