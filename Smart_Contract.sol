@@ -57,3 +57,4 @@ contract Lottery {
 // contribution 8
 // contribution 9
 // commit 1
+// commit 2
