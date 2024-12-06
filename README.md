@@ -125,7 +125,7 @@ lotteryContract.methods.getPlayers().call();
 
 ---
 
-## 🧠 Contract Highlights
+## 🧠 Contract Highlight
 
 - ❌ **No duplicate entries**: Each address can only enter the lottery once.
 - 🎯 **Manager-only winner selection**: Only the deployer (manager) can trigger the winner selection process.
@@ -163,13 +163,3 @@ Open-source | MIT License
 This contract is intended for educational and experimental purposes only. Do not use on the Ethereum mainnet without extensive testing.
 
 ---
-Contribution 0
-Contribution 1
-Contribution 2
-Contribution 3
-Contribution 4
-Contribution 5
-Contribution 6
-Contribution 7
-Contribution 8
-Contribution 9
