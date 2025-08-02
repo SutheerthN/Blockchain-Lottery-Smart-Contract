@@ -46,21 +46,3 @@ contract Lottery {
         return players;
     }
 }
-// contribution 0
-// contribution 1
-// contribution 2
-// contribution 3
-// contribution 4
-// contribution 5
-// contribution 6
-// contribution 7
-// contribution 8
-// contribution 9
-// commit 1
-// commit 2
-// commit 3
-// commit 1
-// commit 2
-// commit 3
-// commit 1
-// commit 2
